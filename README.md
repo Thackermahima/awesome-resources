@@ -198,7 +198,9 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Complete Blockchain tutorial for beginners](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=9919s)
 - :books: [Become a Web3 Developer](https://learnweb3.io/)
 - :video_camera: [Blockchain Complete Series](https://www.youtube.com/playlist?list=PL_c9BZzLwBRJsMptw588B8U6QyZLUcini)
-
+- 💡: [Blockchain Fundamentals](https://youtu.be/GLMBan4TNC0?si=QsHxFoUqqz0bPQyT)
+- 🔔: [Learn about Push Protocol (Web3 Notifications)](https://youtu.be/DjdqcBOimac?si=GIhAS6aSzdtyBfNA)
+- 🤑: [Money streaming with SuperFluid Protocol](https://youtu.be/PwGjrcoRnLw?si=k-i_xibby_lKlUjm)
 ---
 
 **[⬆ Back to Index](#content)**
